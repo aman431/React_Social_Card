@@ -1,0 +1,63 @@
+body{
+	padding: 50px;
+}
+.box{
+	height: 600px;
+	width: 100%;
+	background: white;
+}
+.upper_name {
+	text-align: center;
+	padding-top: 20px;
+}
+.upper_name a{
+	padding: 10px;
+	text-decoration: none;
+	font-size: 20px;
+}
+.icon1{
+	margin: 20px;
+	background: #1a1a59c4;
+	color: white;
+	border-radius: 50%;
+}
+.icon2{
+	background: white;
+	color: #1a1a59c4;
+	border: 1px solid black;
+	border-radius: 50%;
+}
+.content{
+	margin-left: 80px;
+	font-size:25px;
+}
+.content h1{
+	color: #1a1a59c4;	
+}
+.content h1 span{
+	color: black;
+	font-weight: normal;
+}
+.content p{
+	width: 600px;
+	font-size: 15px;
+}
+.images{
+	display: inline-block;
+	position: relative;
+	float: right;
+	top: -450px;
+}
+.images img{
+	width: 240px;
+	background: white;
+	height: 440px;
+}
+.icons{
+	margin-top: 40px;
+}
+.icons a{
+	font-size: 35px;
+	color: #1a1a59c4;
+	padding-right: 75px;
+}
